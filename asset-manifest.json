@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.70e25702.css",
-    "main.js": "/static/js/main.69355004.js",
-    "static/js/787.dc9ebd2b.chunk.js": "/static/js/787.dc9ebd2b.chunk.js",
-    "static/media/PermanentMarker-Regular.ttf": "/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
-    "static/media/Modeseven-L3n5.ttf": "/static/media/Modeseven-L3n5.8cd71d7c10417596d6d8.ttf",
-    "static/media/jmcle-logo-small.png": "/static/media/jmcle-logo-small.7bc6515a8b3f92867b1a.png",
-    "index.html": "/index.html",
-    "main.70e25702.css.map": "/static/css/main.70e25702.css.map",
-    "main.69355004.js.map": "/static/js/main.69355004.js.map",
-    "787.dc9ebd2b.chunk.js.map": "/static/js/787.dc9ebd2b.chunk.js.map"
+    "main.css": "/reactaboutbuild/static/css/main.352f3687.css",
+    "main.js": "/reactaboutbuild/static/js/main.27ac80d3.js",
+    "static/js/787.dc9ebd2b.chunk.js": "/reactaboutbuild/static/js/787.dc9ebd2b.chunk.js",
+    "static/media/PermanentMarker-Regular.ttf": "/reactaboutbuild/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
+    "static/media/Modeseven-L3n5.ttf": "/reactaboutbuild/static/media/Modeseven-L3n5.8cd71d7c10417596d6d8.ttf",
+    "static/media/jmcle-logo-small.png": "/reactaboutbuild/static/media/jmcle-logo-small.7bc6515a8b3f92867b1a.png",
+    "index.html": "/reactaboutbuild/index.html",
+    "main.352f3687.css.map": "/reactaboutbuild/static/css/main.352f3687.css.map",
+    "main.27ac80d3.js.map": "/reactaboutbuild/static/js/main.27ac80d3.js.map",
+    "787.dc9ebd2b.chunk.js.map": "/reactaboutbuild/static/js/787.dc9ebd2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70e25702.css",
-    "static/js/main.69355004.js"
+    "static/css/main.352f3687.css",
+    "static/js/main.27ac80d3.js"
   ]
 }
