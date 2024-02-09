@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70e25702.css",
+    "main.js": "/static/js/main.69355004.js",
+    "static/js/787.dc9ebd2b.chunk.js": "/static/js/787.dc9ebd2b.chunk.js",
+    "static/media/PermanentMarker-Regular.ttf": "/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
+    "static/media/Modeseven-L3n5.ttf": "/static/media/Modeseven-L3n5.8cd71d7c10417596d6d8.ttf",
+    "static/media/jmcle-logo-small.png": "/static/media/jmcle-logo-small.7bc6515a8b3f92867b1a.png",
+    "index.html": "/index.html",
+    "main.70e25702.css.map": "/static/css/main.70e25702.css.map",
+    "main.69355004.js.map": "/static/js/main.69355004.js.map",
+    "787.dc9ebd2b.chunk.js.map": "/static/js/787.dc9ebd2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e25702.css",
+    "static/js/main.69355004.js"
+  ]
+}
